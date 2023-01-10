@@ -10,7 +10,7 @@ The figure below shows 30-year-old male whose heart rate (HR) increased from 72 
   <img src='videos/Healthy_PRE-EX_SHAX_RT_TAG_Single_Beat_CS6GAN2_ECG_trigger_-_Reconed-64001-slice3.gif' width=100>
 </p>
 
-
+<br />
 
 <p float="left">
   <img src='Healthy-POST-EX_SHAX_RT_TAG_Single_Beat_CS6GAN2_ECG_trigger_-_Reconed-101001-slice1.gif' width=100>
