@@ -6,6 +6,6 @@ The figure below shows 30-year-old male whose heart rate (HR) increased from 72 
 
 <img src='videos/Healthy1.gif'  align="left"  width=300>
 
-<br><br><br><br>
+<br><br><br><br><br><br>
 
-<img src='videos/Healthy1.gif'  align="left"  width=300>
+<img src='videos/HFpEF1.gif'  align="left"  width=300>
