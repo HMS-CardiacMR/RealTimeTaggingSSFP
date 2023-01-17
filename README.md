@@ -1,4 +1,4 @@
-<img src='imgs/landmarks.gif' align="right" width=200>
+<img src='imgs/Healthy1.gif' align="right" width=200>
 
 <br><br><br><br>
 
@@ -8,7 +8,7 @@ The figure below shows 30-year-old male whose heart rate (HR) increased from 72 
 
 <br><br><br><br><br><br>
 Healthy Subject
-<br><br><br><br><br><br>
+<br>
 <img src='videos/Healthy1.gif'  align="left"  width=300>
 
 <br><br><br><br><br><br>
